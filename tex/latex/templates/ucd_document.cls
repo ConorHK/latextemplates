@@ -16,7 +16,7 @@
 \lhead[]{}
 \chead[\bfseries \Large \themodulecode: \thecourse\\
 \large Assignment \theassignmentnumber\\
-\thestudentname \quad---\quad \thestudentnumber]{}
+\small \thestudentname \quad---\quad \thestudentnumber]{}
 \rhead[]{\bfseries \themodulecode: Assignment \theassignmentnumber}
 \cfoot{}
 \lfoot{\includegraphics[width=0.8cm]{ucd.png}}
